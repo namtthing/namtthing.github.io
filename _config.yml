@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: namtthing.io
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
@@ -8,7 +8,7 @@ name: Myungsun Nam
 title: Namtthing World
 description: >
   Namtthing's World!
-url: http://namtthing.github.io
+url: https://namtthing.github.io/
 twitter_username: none
 default_img: /assets/images/seo.jpg
 social:
