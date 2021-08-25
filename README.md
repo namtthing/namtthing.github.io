@@ -1,1 +1,0 @@
-# namtthing.github.io
