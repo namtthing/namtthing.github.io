@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: namtthing.io
-baseurl: ""
+baseurl: " "
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
@@ -8,7 +8,7 @@ name: Myungsun Nam
 title: Namtthing World
 description: >
   Namtthing's World!
-url: https://namtthing.github.io/
+site.url: http://namtthing.github.io/
 twitter_username: none
 default_img: /assets/images/seo.jpg
 social:
@@ -19,7 +19,7 @@ social:
   - name: linkedin
     url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/namtthing
   - name: codepen
     url: https://codepen.io/thomasvaeth/
 
@@ -38,7 +38,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 author:
   - name: Myungsun Nam
     bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+    url: http://namtthing.github.io/
 
 # Pagination settings
 pagination:
@@ -59,7 +59,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-    title: 'The Barber Theme'
+    title: 'Namtthing Theme'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
